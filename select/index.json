@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "メトロポリタン",
+  "base_artist": "なきごと",
+  "createdAt": "2026-01-03T14:03:48.267605Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メトロポリタン",
+      "artist": "なきごと",
+      "has_synced": false,
+      "path": "select/01_メトロポリタン_なきごと.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メトロポリタン",
+      "artist": "なきごと",
+      "has_synced": false,
+      "path": "select/pl_01_メトロポリタン_なきごと.txt"
+    }
+  ]
+}
